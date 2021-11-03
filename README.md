@@ -1,7 +1,7 @@
 
 ![Banner](imagenes/banner.png)
 
-# M1S3: Flexbox y CSS Grids
+# M4S5Y6: Flexbox y CSS Grids
 
 >#### Hola, te doy la bienvenida a la tercera semana de U Camp, hasta ahora has aprendido sobre HTML, CSS y también de Git y GitHub, en esta oportunidad daremos inicio a Flexbox que se creó para mejorar la forma en la que se hace diseño responsive.
 >#### Continúa con la lectura del contenido...
