@@ -3,28 +3,28 @@
 
 # M4S5Y6: Flexbox y CSS Grids
 
->#### Hola, te doy la bienvenida a la tercera semana de U Camp, hasta ahora has aprendido sobre HTML, CSS y también de Git y GitHub, en esta oportunidad daremos inicio a Flexbox que se creó para mejorar la forma en la que se hace diseño responsive.
+>#### Hola, te doy la bienvenida al módulo 4, hasta ahora has aprendido sobre HTML, CSS y también de Git y GitHub, en esta oportunidad daremos inicio a Flexbox que se creó para mejorar la forma en la que se hace diseño responsive.
 >#### Continúa con la lectura del contenido...
 
 ## **ÍNDICE**
 
-* [Flexbox](https://github.com/U-Camp/BOOT-M1-SEM3/blob/main/README.md#flexbox-cajas-flexibles)
-  * [Flex Container](https://github.com/U-Camp/BOOT-M1-SEM3/blob/main/README.md#flexbox-cajas-flexibles)
-  * [Display](https://github.com/U-Camp/BOOT-M1-SEM3/blob/main/README.md#display)
-  * [Flex direction](https://github.com/U-Camp/BOOT-M1-SEM3/blob/main/README.md#flex-direction)
-  * [Flex wrap](https://github.com/U-Camp/BOOT-M1-SEM3/blob/main/README.md#flex-wrap)
-  * [Flex flow](https://github.com/U-Camp/BOOT-M1-SEM3/blob/main/README.md#flex-flow)
-  * [Justify content](https://github.com/U-Camp/BOOT-M1-SEM3/blob/main/README.md#justify-content)
-  * [Align items](https://github.com/U-Camp/BOOT-M1-SEM3/blob/main/README.md#align-items)
-  * [Align content](https://github.com/U-Camp/BOOT-M1-SEM3#align-content)
-  * [Order](https://github.com/U-Camp/BOOT-M1-SEM3#align-order)
-* [CSS Grids](https://github.com/U-Camp/BOOT-M1-SEM3#css-grids)
-  * [grid-template-columns](https://github.com/U-Camp/BOOT-M1-SEM3#grid-template-columns)
-  * [grid-template-rows](https://github.com/U-Camp/BOOT-M1-SEM3#grid-template-rows)
-  * [grid-template-areas](https://github.com/U-Camp/BOOT-M1-SEM3#grid-template-areas)
-  * [grid-column-gap](https://github.com/U-Camp/BOOT-M1-SEM3#grid-column-gap)
-  * [grid-row-gap](https://github.com/U-Camp/BOOT-M1-SEM3#grid-row-gap)
-  * [grid-gap](https://github.com/U-Camp/BOOT-M1-SEM3#grid-grap)
+* [Flexbox](https://github.com/U-Camp/BOOT-M4-S5Y6-WDF#flexbox-cajas-flexibles)
+  * [Flex Container](https://github.com/U-Camp/BOOT-M4-S5Y6-WDF#flexbox-cajas-flexibles)
+  * [Display](https://github.com/U-Camp/BOOT-M4-S5Y6-WDF#display)
+  * [Flex direction](https://github.com/U-Camp/BOOT-M4-S5Y6-WDF#flex-direction)
+  * [Flex wrap](https://github.com/U-Camp/BOOT-M4-S5Y6-WDF#flex-wrap)
+  * [Flex flow](https://github.com/U-Camp/BOOT-M4-S5Y6-WDF#flex-flow)
+  * [Justify content](https://github.com/U-Camp/BOOT-M4-S5Y6-WDF#justify-content)
+  * [Align items](https://github.com/U-Camp/BOOT-M4-S5Y6-WDF#align-items)
+  * [Align content](https://github.com/U-Camp/BOOT-M4-S5Y6-WDF#align-content)
+  * [Order](https://github.com/U-Camp/BOOT-M4-S5Y6-WDF#align-order)
+* [CSS Grids](https://github.com/U-Camp/BOOT-M4-S5Y6-WDF#css-grids)
+  * [grid-template-columns](https://github.com/U-Camp/BOOT-M4-S5Y6-WDF#grid-template-columns)
+  * [grid-template-rows](https://github.com/U-Camp/BOOT-M4-S5Y6-WDF#grid-template-rows)
+  * [grid-template-areas](https://github.com/U-Camp/BOOT-M4-S5Y6-WDF#grid-template-areas)
+  * [grid-column-gap](https://github.com/U-Camp/BOOT-M4-S5Y6-WDF#grid-column-gap)
+  * [grid-row-gap](https://github.com/U-Camp/BOOT-M4-S5Y6-WDF#grid-grap)
+  * [grid-gap](https://github.com/U-Camp/BOOT-M4-S5Y6-WDF#grid-grap)
 
   
 # Flexbox: Cajas Flexibles
@@ -264,7 +264,6 @@ Es una propiedad que establece el espacio entre filas y columnas.
 ```
 
 
->#### Muy bien, llegamos al final de la semana 3, te invito a que vayas repasando todo el contenido visto, ya que, casi llega el momento de la presentación de tu primer proyecto y para este deberás aplicar todo lo aprendido hasta el momento.
->#### Si logras obtener 90% en el primer proyecto estas más cerca de ganar una insignia, ya que, sólo faltaría presentar el segundo proyecto y sacar el mismo porcentaje.
+>#### Muy bien, llegamos al final de este módulo, te invito a que vayas repasando todo el contenido visto, ya que, mientras más practiques más fácil se te hara programar.
 >#### ¡Sigue adelante, vas muy bien! :wink:
 >
