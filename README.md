@@ -1,7 +1,7 @@
 
 ![Banner](imagenes/banner.png)
 
-# M4S5Y6: Flexbox y CSS Grids
+# M4S5Y6: Flexbox y CSS Grid
 
 >#### Hola, te doy la bienvenida al módulo 4, hasta ahora has aprendido sobre HTML, CSS y también de Git y GitHub, en esta oportunidad daremos inicio a Flexbox que se creó para mejorar la forma en la que se hace diseño responsive.
 >#### Continúa con la lectura del contenido...
@@ -18,7 +18,7 @@
   * [Align items](https://github.com/U-Camp/BOOT-M4-S5Y6-WDF#align-items)
   * [Align content](https://github.com/U-Camp/BOOT-M4-S5Y6-WDF#align-content)
   * [Order](https://github.com/U-Camp/BOOT-M4-S5Y6-WDF#align-order)
-* [CSS Grids](https://github.com/U-Camp/BOOT-M4-S5Y6-WDF#css-grids)
+* [CSS Grid](https://github.com/U-Camp/BOOT-M4-S5Y6-WDF#css-grid)
   * [grid-template-columns](https://github.com/U-Camp/BOOT-M4-S5Y6-WDF#grid-template-columns)
   * [grid-template-rows](https://github.com/U-Camp/BOOT-M4-S5Y6-WDF#grid-template-rows)
   * [grid-template-areas](https://github.com/U-Camp/BOOT-M4-S5Y6-WDF#grid-template-areas)
@@ -158,13 +158,13 @@ Esta propiedad, asigna un valor de ordenamiento a un elemento específico dentro
 >#### ¿Cómo te fue con los ejercicios?, ¿te sientes mejor?
 >#### Continuemos…
 
-# CSS Grids
+# CSS Grid
 
 Es un sistema de rejilla bidimensional. 
 
 Durante muchos años, CSS utilizó tablas, luego `floats`, posiciones e `inline-block`, sin embargo, todo era más un conjunto de técnicas más que un sistema que nos permitiera crear web de manera más organizada.
 
-La propuesta `CSS Grids` es la propuesta más sólida para resolver el problema de lienzos dentro de los sitios web.
+La propuesta `CSS Grid` es la propuesta más sólida para resolver el problema de lienzos dentro de los sitios web.
 
 A pesar de tener una perspectiva diferente a Flexbox, ambas pueden complementarse y utilizarse sin complicación.
 
