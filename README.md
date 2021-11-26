@@ -140,7 +140,7 @@ Esta propiedad alinea las líneas de un contenedor flex cuando un espacio adicio
 
 ```css
 .container{
-  align-items: flex-start
+  align-content: flex-start
 }
 ```
 
