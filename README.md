@@ -1,7 +1,7 @@
 
 ![Banner](imagenes/banner.png)
 
-# WDF M4 S5 Y S6: Flexbox y CSS Grid
+# WDF S5 Y S6: Flexbox y CSS Grid
 
 >#### Hola, te doy la bienvenida al módulo 4, hasta ahora has aprendido sobre HTML, CSS y también de Git y GitHub, en esta oportunidad daremos inicio a Flexbox que se creó para mejorar la forma en la que se hace diseño responsive.
 >#### Continúa con la lectura del contenido...
